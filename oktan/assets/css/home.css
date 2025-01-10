@@ -1141,7 +1141,7 @@ input:focus {
 @media (max-width: 768px) {
   p.slider-contact-childe {
     margin-right: 31px;
-    width: 129%;
+    /* width: 129% ; */
     margin-left: -84px;
   }
 
@@ -1179,7 +1179,7 @@ input:focus {
   }
 }
 
-@media (min-width: 768px) and (max-width: 900px) {
+@media (min-width: 769px) and (max-width: 900px) {
   .oktal-sider-img .item {
     order: 1;
   }
@@ -2302,7 +2302,7 @@ span.factorial-our {
 }
 
 /* Text Color */
-.card-body-section {
+.card-  -section {
   color: var(--faq-font-color) !important;
   text-align: center;
 }
